@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 1" width="60" height="1">
+	<title>01-Beatles</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #0872b9 } 
+	</style>
+	<g id="About Us">
+		<g id="Section Heading">
+			<path id="Shape 1 copy 3" class="s0" d="m0 1v-1h47v1zm50 0v-1h3v1zm5 0v-1h2v1zm4 0v-1h1v1z"/>
+		</g>
+	</g>
+</svg>
